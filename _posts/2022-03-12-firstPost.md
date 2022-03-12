@@ -42,8 +42,8 @@ last_modified_at: 2022-03-12
 [버튼1](https://mmistakes.github.io/minimal-mistakes/docs/helpers/)
 {: .btn .btn-danger}
 
-<!-- iD 부분만 수정하면 유튜브 포스트 가능 -->
-{% include video id="vB8Nx2Oxpw0" provider="youtube" %}
+<!-- iD 부분만 수정하면 유튜브 포스트 가능
+{% include video id="vB8Nx2Oxpw0" provider="youtube" %} -->
 
 
 # 만류귀종 일맥상통
