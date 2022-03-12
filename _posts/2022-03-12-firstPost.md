@@ -12,7 +12,7 @@ toc_sticky: true
 
 author_profile: false   # 좌측 프로필 접기(포스트에 들어가면 꺼짐)
 sidebar:
-    nav: "docs"
+  nav: "docs"
 
 date: 2022-03-12
 last_modified_at: 2022-03-12
