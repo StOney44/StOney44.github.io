@@ -47,7 +47,7 @@ last_modified_at: 2022-03-12
 {: .btn .btn-danger}
 
 <!-- iD 부분만 수정하면 유튜브 포스트 가능
-{% include video id="vB8Nx2Oxpw0" provider="youtube" %} -->
+{% include video id="----" provider="youtube" %} -->
 
 
 # 만류귀종 일맥상통
