@@ -3,7 +3,7 @@ title:  "Layout"
 excerpt: "(작성중) Layout의 종류"
 
 categories:
-  - [Blog, Jekyll]
+  - Blog
 tags:
   - [Blog, Jekyll]
 
