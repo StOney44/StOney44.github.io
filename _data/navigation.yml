@@ -1,5 +1,11 @@
 # main links
 main:
+  - title: "IT"
+    url: /ITs/
+  - title: "Economy"
+    url: /Economies/
+  - title: "News"
+    url: /News/
   - title: "Category"
     url: /categories/
   - title: "Tag"
