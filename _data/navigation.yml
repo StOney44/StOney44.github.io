@@ -1,5 +1,14 @@
+# title은 화면에 보여지는 영역
+# url은 _pages 내에 정해져 있는 양식 혹은 특정 링크로 연결
+
 # main links
 main:
+  - title: "IT"
+    url: /IT/
+  - title: "Economy"
+    url: /Economy/
+  - title: "News"
+    url: /News/
   - title: "Category"
     url: /categories/
   - title: "Tag"
@@ -15,6 +24,10 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
 
+
+docs:
+  - title: ""
+    url: //
   # docs:
   # - title: "대목차1"
   #   children:
