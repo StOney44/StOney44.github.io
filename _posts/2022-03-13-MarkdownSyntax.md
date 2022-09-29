@@ -5,7 +5,7 @@ excerpt: "마크다운 기본 사용법"
 categories:
   - Blog
 tags:
-  - [Blog, study]
+  - [Blog, Syntax]
 
 toc: true   # table of contents
 toc_sticky: true

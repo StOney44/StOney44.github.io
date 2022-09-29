@@ -4,9 +4,15 @@
 # main links
 main:
   - title: "IT"
+<<<<<<< HEAD
     url: /IT/
   - title: "Economy"
     url: /Economy/
+=======
+    url: /ITs/
+  - title: "Economy"
+    url: /Economies/
+>>>>>>> ec70e34213fbe8a431af49c6cbd87083fe23a14b
   - title: "News"
     url: /News/
   - title: "Category"
