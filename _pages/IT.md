@@ -4,8 +4,6 @@ title: "IT"
 layout: IT
 permalink: /IT/
 =======
-layout: ITs
-permalink: /ITs/
 author_profile: true
 sidebar_main: true
 >>>>>>> ec70e34213fbe8a431af49c6cbd87083fe23a14b
